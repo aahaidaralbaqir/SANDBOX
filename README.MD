@@ -1,5 +1,5 @@
-## DAY OF CODE
+## Day Of Code
 
-## GOLANG PROGRAMING LANGUAGE
+## Golang Programming Language
 - 3 Juni 2020
-	- Golang context
+	- Golang context [notes](https://www.google.com)
